@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.gemini/
+.agent/
+quran_themes.json
+quran_topic_vectors_v2.pkl
+quran_topic_graph.json
+quran_topics_v2.json
+topic_embeddings.pkl
+*.html
+lib/
+data/
+conversations/
+Neo4j-b612b258-Created-2026-01-05.txt
