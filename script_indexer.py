@@ -4,7 +4,7 @@ import time
 from quran_utils import load_quran_db
 
 # إعداد الـ API
-genai.configure(api_key="AIzaSyDj3w8h2E8f_BWzZC-YbeHkQEfryq-Sp5s")
+genai.configure(api_key="")
 # يمكن استخدام Flash لسرعته، لكن Pro أدق في الفهم الموضوعي
 model = genai.GenerativeModel('gemini-3-flash-preview') 
 
